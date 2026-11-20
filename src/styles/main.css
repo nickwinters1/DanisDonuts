@@ -1,0 +1,10 @@
+@import '@fontsource-variable/unbounded';
+@import '@fontsource-variable/fraunces/full.css';
+@import '@fontsource-variable/fraunces/full-italic.css';
+@import '@fontsource-variable/plus-jakarta-sans';
+@import '@fontsource-variable/jetbrains-mono';
+@import '@fontsource-variable/caveat';
+@import './base.css';
+@import './components.css';
+@import './sections.css';
+@import './views.css';
